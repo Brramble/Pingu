@@ -1,7 +1,10 @@
 # Pingu Discord Bot
 
-**Role Reminder** • Notifies & messages users when they lose their Top Donator, VIP or VIP+ role 
+**General Commands** • 
 
-  - `[p]settopdonorole <Role>` - Sets the Top Donator role to be listened to
-  - `[p]setviprole <Role>` - Sets the VIP role to be listened to
-  - `[p]setvipplusrole <Role>` - Sets the VIP+ role to be listened to
+  - `pingu about` - More info about me
+  - `pingu prefix` - Prefix management
+  - `pingu ping` - Checks the bot's latency
+  - `pingu invite` - Send my invite link
+  - `pingu licenseinfo` - Show info about Red's Licenses
+  - `pingu contact` - Contact Bramble for bugs and info
