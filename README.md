@@ -1,4 +1,15 @@
-# Pingu Discord Bot
+<img align="right" src="https://i.imgur.com/Q9ZIQao.jpeg" height="200" width="200">
+# Pingu
+
+
+[![Invite Me](https://img.shields.io/badge/Discord-Invite%20Me!-success)](https://discord.com/oauth2/authorize?client_id=192321118537777152&scope=bot&permissions=8)
+[![Support](https://img.shields.io/badge/Discord-Support-critical)](https://discord.gg/EwcKJb4XUV)
+
+## Features
+  * High quality, fast loading music
+  * Clean and messages & GUIs
+  * Utility commands
+  * Fun & useful commands
 
 **General Commands** • 
 
