@@ -6,6 +6,8 @@
 [![Invite Me](https://img.shields.io/badge/Discord-Invite%20Me!-success)](https://discord.com/oauth2/authorize?client_id=192321118537777152&scope=bot&permissions=8)
 [![Support](https://img.shields.io/badge/Discord-Support-critical)](https://discord.gg/EwcKJb4XUV)
 
+Pingu has an alternative prefix of `//`, prefixes of Pingu can be changed in your guild by `pingu prefix`
+
 ## Features
   * High quality, fast loading music
   * Clean and messages & GUIs
