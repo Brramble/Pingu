@@ -33,6 +33,8 @@ Pingu has an alternative prefix of `//`, prefixes of Pingu can be changed in you
   - `pingu avatar` - Show user's avatar
   - `pingu emoji` - Post a large size emojis in chat
   - `pingu botinfo` - Entire bot information
+  - `pingu uinfo` - Information on a user
+  - `pingu sinfo` - Shows server information
   - `pingu discordstatus` - Get current discord status
   - `pingu alias` - Manage command aliases.
   - `vpingu customcom` - Custom command management
@@ -41,20 +43,21 @@ Pingu has an alternative prefix of `//`, prefixes of Pingu can be changed in you
   
  **Guild Utility Commands** • 
   
-- `pingu whois` - Display servers a user shares with the bot
-- `pingu thetime` - Displays current time of the server
-- `pingu channelstats` - Gets total messages in channel
-- `pingu getroles` - Displays all roles
-- `pingu userlog` - Manage user log settings
-- `pingu guildedit` - Edit various guild settings
-- `pingu channeledit` - Modify channel options
-- `pingu guildemojis` - Display all server emojis
-- `pingu nummembers` - Display number of users on a server
-- `pingu topmembers` - Lists top members on the server
-- `pingu serverstats` - Gets total messages on the server
-- `pingu topic` - Sets a specified channels topic
-- `pingu restartvoice` - Restart server voice region
-- `pingu massmove` - Move all members to a voice channel
+ - `pingu whois` - Display servers a user shares with the bot
+ - `pingu thetime` - Displays current time of the server
+ - `pingu channelstats` - Gets total messages in channel
+ - `pingu getroles` - Displays all roles
+ - `pingu userlog` - Manage user log settings
+ - `pingu guildedit` - Edit various guild settings
+ - `pingu channeledit` - Modify channel options
+ - `pingu cinfo` - Get info about channel
+ - `pingu guildemojis` - Display all server emojis
+ - `pingu nummembers` - Display number of users on a server
+ - `pingu topmembers` - Lists top members on the server
+ - `pingu serverstats` - Gets total messages on the server
+ - `pingu topic` - Sets a specified channels topic
+ - `pingu restartvoice` - Restart server voice region
+ - `pingu massmove` - Move all members to a voice channel
 
  **Music Commands** • 
  
