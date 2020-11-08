@@ -81,7 +81,7 @@ Pingu has an alternative prefix of `//`, prefixes of Pingu can be changed in you
 
  **Fun Commands** • 
  
-- `pingu aesthetics - Returns inputed text in aesthetics
+- `pingu aesthetics` - Returns inputed text in aesthetics
 - `pingu ascii` - Convert text into ASCII
 - `pingu caption` - Add caption to an image
 - `pingu emojify` - Replace characters in text with emojis
